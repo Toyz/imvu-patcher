@@ -2,7 +2,7 @@
 This is a patch to make the new IMVU Next Desktop app work on both windows and linux nativally
 
 ```
-> go run -u github.com/Toyz/imvu-patcher
+> go get -u github.com/Toyz/imvu-patcher
 > imvu-patcher
 ```
 
