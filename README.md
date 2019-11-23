@@ -10,3 +10,8 @@ All you have to do is run `imvu-patcher` every time you wish to run the Mac OS I
 
 ### Contributing
 You can contribute to this project to help make it better such as optimizing the file patching and stuff for say linux
+
+### TODO
+- [ ] Package to allow installing
+- [ ] Support chrome books (In theory this will already work on chrome but electron might not)
+- [ ] Optimize patching for linux (Maybe use diffs instead) 
